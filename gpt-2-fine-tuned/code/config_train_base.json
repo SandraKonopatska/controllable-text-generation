@@ -1,0 +1,21 @@
+{
+  "output_dir": "exp0000",  
+  "data_path": "/mnt/green-efs/andrii.liubonko/may/ucu/data/final",
+  "condition": "pos",  
+  "num_samples": 100,  
+  "num_workers": 16,  
+  "num_train_epochs": 10,
+  "learning_rate": 1e-4,
+  "cold_steps_lr": 5e-4,
+  "cold_steps": 2,    
+  "patience": 3,  
+  "gradient_accumulation_steps": 1,
+  "per_device_train_batch_size": 8,
+  "per_device_eval_batch_size": 16,
+  "logging_steps": 10,  
+  "model_name_or_path": "gpt2",
+  "model_pretrained_path": null,
+  "device": "cuda",  
+  "max_length_bpe": 256,  
+  "seed": 108  
+}
