@@ -1,0 +1,51 @@
+text,pos
+He loves his adorable dog and can't wait to play fetch with it tomorrow.,PRON VERB ADJ PRON AUX ADJ PART VERB ADV ADV ADP DET ADJ NOUN CCONJ VERB ADV ADJ ADJ NOUN CCONJ NOUN PUNCT
+She is excitedly singing along to the beautifully harmonized chorus of the song.,PRON VERB ADJ PRON AUX ADJ PART VERB ADV ADV ADP DET ADJ NOUN CCONJ VERB ADV ADJ ADJ NOUN CCONJ NOUN PUNCT
+They were genuinely surprised when the expertly choreographed dance routine ended flawlessly.,PRON VERB ADJ PRON AUX ADJ PART VERB ADV ADV ADP DET ADJ NOUN CCONJ VERB ADV ADJ ADJ NOUN CCONJ NOUN PUNCT
+I am eagerly looking forward to exploring the stunningly picturesque landscapes during our vacation.,PRON VERB ADJ PRON AUX ADJ PART VERB ADV ADV ADP DET ADJ NOUN CCONJ VERB ADV ADJ ADJ NOUN CCONJ NOUN PUNCT
+"We were happily strolling through the bustling city streets, admiring the intricately designed buildings and vibrant artwork.",PRON VERB ADJ PRON AUX ADJ PART VERB ADV ADV ADP DET ADJ NOUN CCONJ VERB ADV ADJ ADJ NOUN CCONJ NOUN PUNCT
+Two can't be and shouldn't be in charge of your decisions.,NUM AUX PART VERB PART AUX ADP PRON NOUN PUNCT
+"Three will not, and cannot, dictate your future.",NUM AUX PART VERB PART AUX ADP PRON NOUN PUNCT
+Four must not let others determine your self-worth.,NUM AUX PART VERB PART AUX ADP PRON NOUN PUNCT
+Five should never let anyone belittle your achievements.,NUM AUX PART VERB PART AUX ADP PRON NOUN PUNCT
+Six ought not to allow negativity to overshadow your aspirations.,NUM AUX PART VERB PART AUX ADP PRON NOUN PUNCT
+The majestic mountains are calling and I must go on a thrilling adventure.,DET ADJ NOUN AUX VERB ADP NUM ADP DET ADJ NOUN ADP DET PROPN PROPN NOUN CCONJ VERB ADJ NOUN ADP DET PROPN ADJ NOUN PUNCT ADV PUNCT
+A beautiful sunset paints the sky with vibrant colors over seven seas and four continents.,DET ADJ NOUN AUX VERB ADP NUM ADP DET ADJ NOUN ADP DET PROPN PROPN NOUN CCONJ VERB ADJ NOUN ADP DET PROPN ADJ NOUN PUNCT ADV PUNCT
+The curious cat chased a group of playful squirrels through the lush green forest.,DET ADJ NOUN AUX VERB ADP NUM ADP DET ADJ NOUN ADP DET PROPN PROPN NOUN CCONJ VERB ADJ NOUN ADP DET PROPN ADJ NOUN PUNCT ADV PUNCT
+"An old book sat on a dusty shelf in the corner of a quiet library, filled with timeless wisdom.",DET ADJ NOUN AUX VERB ADP NUM ADP DET ADJ NOUN ADP DET PROPN PROPN NOUN CCONJ VERB ADJ NOUN ADP DET PROPN ADJ NOUN PUNCT ADV PUNCT
+Early mornings bring serenity and calmness as the golden sun rises above the peaceful lake.,DET ADJ NOUN AUX VERB ADP NUM ADP DET ADJ NOUN ADP DET PROPN PROPN NOUN CCONJ VERB ADJ NOUN ADP DET PROPN ADJ NOUN PUNCT ADV PUNCT
+"Quietly, as the night fell, she could no longer resist the tempting aroma of freshly baked cookies.",ADV SCONJ PRON AUX VERB ADJ NOUN ADV ADP NOUN PUNCT PRON AUX AUX VERB ADJ ADJ NOUN ADP DET PUNCT ADJ PUNCT NOUN PUNCT
+"Carefully, he deliberated whether he should take the bold step towards his dreams.",ADV SCONJ PRON AUX VERB ADJ NOUN ADV ADP NOUN PUNCT PRON AUX AUX VERB ADJ ADJ NOUN ADP DET PUNCT ADJ PUNCT NOUN PUNCT
+"Unexpectedly, they found themselves lost in a vast, enchanting forest.",ADV SCONJ PRON AUX VERB ADJ NOUN ADV ADP NOUN PUNCT PRON AUX AUX VERB ADJ ADJ NOUN ADP DET PUNCT ADJ PUNCT NOUN PUNCT
+"Gently, the breeze caressed the blooming flowers in the beautifully manicured garden.",ADV SCONJ PRON AUX VERB ADJ NOUN ADV ADP NOUN PUNCT PRON AUX AUX VERB ADJ ADJ NOUN ADP DET PUNCT ADJ PUNCT NOUN PUNCT
+"Swiftly, they ran towards the shimmering coastline, eager to feel the refreshing waves.",ADV SCONJ PRON AUX VERB ADJ NOUN ADV ADP NOUN PUNCT PRON AUX AUX VERB ADJ ADJ NOUN ADP DET PUNCT ADJ PUNCT NOUN PUNCT
+John Smith. Although he can sing.,PROPN NOUN PUNCT SCONJ PRON AUX VERB PUNCT
+Mary Johnson. While she does yoga.,PROPN NOUN PUNCT SCONJ PRON AUX VERB PUNCT
+David Davis. Even though he loves to cook.,PROPN NOUN PUNCT SCONJ PRON AUX VERB PUNCT
+Emily Evans. Though she enjoys painting.,PROPN NOUN PUNCT SCONJ PRON AUX VERB PUNCT
+Michael Miller. Despite his busy schedule.,PROPN NOUN PUNCT SCONJ PRON AUX VERB PUNCT
+Carrots are delicious vegetables.,NOUN AUX VERB NOUN PUNCT
+Dogs bark loudly.,NOUN AUX VERB NOUN PUNCT
+Books provide knowledge.,NOUN AUX VERB NOUN PUNCT
+Rainbows appear after rain.,NOUN AUX VERB NOUN PUNCT
+Stars twinkle at night.,NOUN AUX VERB NOUN PUNCT
+"Quickly, she would have been able to complete the entire puzzle.",ADV PUNCT PRON AUX AUX VERB DET NOUN NOUN ADP DET NOUN ADP DET NOUN PUNCT
+"Carefully, they should have been handling the delicate glass ornaments.",ADV PUNCT PRON AUX AUX VERB DET NOUN NOUN ADP DET NOUN ADP DET NOUN PUNCT
+"Quietly, he might have observed the elusive wildlife in the dense forest.",ADV PUNCT PRON AUX AUX VERB DET NOUN NOUN ADP DET NOUN ADP DET NOUN PUNCT
+"Happily, we could have celebrated the joyful occasion with our dear friends.",ADV PUNCT PRON AUX AUX VERB DET NOUN NOUN ADP DET NOUN ADP DET NOUN PUNCT
+"Patiently, I must have waited for the arrival of the long-awaited package.",ADV PUNCT PRON AUX AUX VERB DET NOUN NOUN ADP DET NOUN ADP DET NOUN PUNCT
+They can swim gracefully.,PRON AUX VERB DET NOUN ADV PUNCT
+He will run swiftly.,PRON AUX VERB DET NOUN ADV PUNCT
+She does dance beautifully.,PRON AUX VERB DET NOUN ADV PUNCT
+I have read extensively.,PRON AUX VERB DET NOUN ADV PUNCT
+We should study diligently.,PRON AUX VERB DET NOUN ADV PUNCT
+"Although she loves to travel, she has never been to Paris.",SCONJ PRON VERB DET NOUN ADP PROPN PUNCT PRON AUX PART VERB DET NOUN PUNCT PUNCT
+"While he enjoys cooking, he rarely bakes desserts.",SCONJ PRON VERB DET NOUN ADP PROPN PUNCT PRON AUX PART VERB DET NOUN PUNCT PUNCT
+"Though they prefer tea, they occasionally drink coffee.",SCONJ PRON VERB DET NOUN ADP PROPN PUNCT PRON AUX PART VERB DET NOUN PUNCT PUNCT
+"If I find a good book, I'll spend hours reading it.",SCONJ PRON VERB DET NOUN ADP PROPN PUNCT PRON AUX PART VERB DET NOUN PUNCT PUNCT
+"Unless we leave now, we might miss the train.",SCONJ PRON VERB DET NOUN ADP PROPN PUNCT PRON AUX PART VERB DET NOUN PUNCT PUNCT
+But they remained undeterred by the challenging circumstances. Life goes on.,CCONJ PRON NOUN ADP NOUN PUNCT NOUN AUX ADV ADJ PUNCT CCONJ PART ADV VERB PRON DET NOUN VERB PRON ADJ PUNCT
+And she tirelessly pursued her dreams despite the obstacles. Passion ignites.,CCONJ PRON NOUN ADP NOUN PUNCT NOUN AUX ADV ADJ PUNCT CCONJ PART ADV VERB PRON DET NOUN VERB PRON ADJ PUNCT
+Or he bravely confronted his fears and emerged stronger. Courage empowers.,CCONJ PRON NOUN ADP NOUN PUNCT NOUN AUX ADV ADJ PUNCT CCONJ PART ADV VERB PRON DET NOUN VERB PRON ADJ PUNCT
+Yet we must not forget to take care of ourselves amidst the chaos. Self-care matters.,CCONJ PRON NOUN ADP NOUN PUNCT NOUN AUX ADV ADJ PUNCT CCONJ PART ADV VERB PRON DET NOUN VERB PRON ADJ PUNCT
+Nor did they hesitate to lend a helping hand to those in need. Kindness spreads.,CCONJ PRON NOUN ADP NOUN PUNCT NOUN AUX ADV ADJ PUNCT CCONJ PART ADV VERB PRON DET NOUN VERB PRON ADJ PUNCT
